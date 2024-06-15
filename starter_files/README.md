@@ -1,4 +1,4 @@
-<img width="452" alt="image" src="https://github.com/mehul1419/nd00333_AZMLND_C2/assets/51814570/d63606f5-c175-4550-ac92-30c0c56f9f85">Machine learning with Azure - BankMarketing.
+Machine learning with Azure - BankMarketing.
 
 In this project of of the course "Machine Learning Engineer with Microsoft Azure", we leverage Microsoft Azure Machine Learning Studio to create a model based on a dataset, deploy it to a web service, consume the endpoints to get the results back and also automated the flow using pipelines.
 
